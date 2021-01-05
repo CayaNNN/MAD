@@ -1,2 +1,1 @@
-# MAD
-Mobile Application Development Assignments
+# Mobile Application Development Assignments
