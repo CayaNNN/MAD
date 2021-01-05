@@ -1,2 +1,2 @@
 # MAD
-assignments from MAD
+Mobile Application Development Assignments
